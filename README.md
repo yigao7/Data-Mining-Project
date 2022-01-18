@@ -1,6 +1,6 @@
 # Data Mining Projects
 
-This repository contains codes for six data mining projects. In most of them I made use of Spark to handle large quantity of data.
+This repository contains codes for six data mining projects.
 
 1. Exploratory analysis of Yelp dataset
 2. Frequent itemset detection using SON Algorithm
