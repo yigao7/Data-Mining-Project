@@ -1,6 +1,6 @@
 # Data Mining Projects
 
-This repository contains my work for six data mining projects.
+This repository stores my work for six data mining projects.
 
 1. Exploratory analysis of Yelp dataset
 2. Frequent itemset detection using SON Algorithm
