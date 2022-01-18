@@ -1,4 +1,4 @@
-# Data-Mining-Project
+# Data Mining Projects
 
 This repository contains codes for six data mining projects. In most of them I made use of Spark to handle large quantity of data.
 
