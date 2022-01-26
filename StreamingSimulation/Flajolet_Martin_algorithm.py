@@ -1,6 +1,6 @@
- # Implement the Flajolet-Martin algorithm to estimate the number of unique users within a window in the data stream.
+# Implement the Flajolet-Martin algorithm to estimate the number of unique users within a window in the data stream.
   
-  import sys
+import sys
 from blackbox import BlackBox
 import binascii
 from statistics import mean, median
