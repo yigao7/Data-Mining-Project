@@ -7,7 +7,9 @@ There are also outliers. Data points which are outliers belong to clusters that 
 
 In BFR, there are three sets of points that you need to keep track of:
  
-Discard set (DS), Compression set (CS), Retained set (RS)
+ Discard set (DS), 
+ Compression set (CS), 
+ Retained set (RS)
 
 
 For each cluster in the DS and CS, the cluster is summarized by: 
