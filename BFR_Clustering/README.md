@@ -2,10 +2,10 @@ In this project I implement the Bradley-Fayyad-Reina (BFR) algorithm to cluster 
 
 
 Since the BFR algorithm has a strong assumption that the clusters are normally distributed with independent dimensions, I use synthetic datasets with random centroids, some data points with the centroids, and some standard deviations that form the clusters. 
-There are also outliers. Data points which are outliers belong to clusters that is named or indexed as “-1”.
+There are also outliers. Data points which are outliers belong to clusters that is named or indexed as “-1."
 
 
-In BFR, there are three sets of points that you need to keep track of:
+In BFR, there are three sets of points that should be kept track of:
 - Discard set (DS), 
 - Compression set (CS), 
 - Retained set (RS)
